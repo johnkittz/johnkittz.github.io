@@ -1,0 +1,9 @@
+Origin: repo
+Label: Repo
+Suite: stable
+version: 1.0
+Codename: repo
+Architechture: iphoneos-arm
+Components: main
+Desciption: repo
+MD5Sum:32793c985a13ab0536627a5b7b61641d

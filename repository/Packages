@@ -1,0 +1,14 @@
+Package: com.iosmods.infection1+2
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Johnkittz <johnkittz@iosmods.com>
+Depends: com.fungames.infectionrelaunched com.fungames.infection2
+Filename: com.iosmods.infection1+2
+Size: 13,168 bytes
+MD5sum: 32793c985a13ab0536627a5b7b61641d
+SHA1: 4f23102c5fd96078a27964f822c87b07065c2867
+Section: Hacks
+Description: hacks
+Author: Johnkittz <johnkittz@iosmods.com>
+Depiction: http://johnkittz.github.io/depic/package/index.html
+Name: infection 1+2 Hack
